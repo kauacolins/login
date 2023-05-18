@@ -38,9 +38,13 @@ body {
 }
 
 .left-login > h1 {
-    color: var(--color-font-1);
+    color: #fff;
     font-size: 2.6vw;
     margin: 20px;
+}
+
+.left-login > h1 > strong {
+    color: var(--color-font-1);
 }
 
 .left-login-image {
