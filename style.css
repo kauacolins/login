@@ -169,6 +169,10 @@ body {
         display: none;
     }
 
+    .left-login-image {
+        display: none;
+    }
+
     .left-login {
         width: 100%;
         height: auto;
