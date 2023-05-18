@@ -81,6 +81,22 @@ body {
     letter-spacing: 2px;
 }
 
+.card-login > p {
+    font-size: 10pt;
+    color: #fff;
+}
+
+.card-login > p > a {
+    text-decoration: none;
+    color: #00ff88;
+}
+
+.card-login > p > a:hover {
+    text-decoration: none;
+    color: var(--color-font-2);
+}
+
+
 .textfield {
     width: 100%;
     display: flex;
