@@ -76,7 +76,6 @@ body {
 
 .card-login:hover {
     scale: 1.01;
-    border: 1px solid #00ff88;
     transition: 1s;
 
 }
